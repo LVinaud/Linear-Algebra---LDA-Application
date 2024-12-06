@@ -23,6 +23,6 @@ As mentioned earlier, the focus of LDA is to maximize the ratio between the disp
 
 ## Math
 
-the amth and python application is better explained in the notebook
+the math and python application is better explained in the notebook
 
 
